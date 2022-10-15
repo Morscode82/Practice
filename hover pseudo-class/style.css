@@ -1,0 +1,21 @@
+div{
+    background:#e5383b;
+    color: white;
+    text-align:center;
+    margin:5px;
+    padding:25px 0px;
+    font-size:30px;
+    font-weight:bold;
+
+}
+
+div:hover{
+    background-image:url("/images/menu.jpg")
+}
+.book:hover{
+    background:green;
+}
+.catering:hover{
+    background:blue;
+    font-size:100px;
+}
